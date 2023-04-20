@@ -1,2 +1,3 @@
 # Google-Project-Shield---Cache-Cleaner-for-Wordpress
-Wordpress Plugin for cache cleaner
+
+Simple Wordpress Plugin for cache cleaner
